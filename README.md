@@ -10,5 +10,7 @@ DevQuery is a responsive engineering sandbox workbench built using React client 
 *  **Dynamic Vector Render Grids:** Re-evaluates array matrices on the fly per render pass, structuralizing row data keys dynamically across conditional HTML view layouts.
 
 ##  Running Instructions
+
+
 1. Setup package configurations: `npm install`
 2. Launch dev data workbench: `npm run dev`
