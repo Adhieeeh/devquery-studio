@@ -1,5 +1,6 @@
 # DevQuery — Interactive Relational Database Simulator (React)
 
+
 DevQuery is a responsive engineering sandbox workbench built using React client component logic models. It embeds a fault-tolerant lexical database command query interpreter directly inside layout states, using dynamic regular expression mapping rules to compile string instructions into real array filter functions, printing custom performance diagnostics alongside grid structures live.
 
 ##  Technical Highlights Explored
