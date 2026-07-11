@@ -1,16 +1,11 @@
-# React + Vite
+# DevQuery — Interactive Relational Database Simulator (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevQuery is a responsive engineering sandbox workbench built using React client component logic models. It embeds a fault-tolerant lexical database command query interpreter directly inside layout states, using dynamic regular expression mapping rules to compile string instructions into real array filter functions, printing custom performance diagnostics alongside grid structures live.
 
-Currently, two official plugins are available:
+##  Technical Highlights Explored
+*  **Syntactic Command Lexers:** Implements text parser scanning layers to analyze code strings into target table components and variable constraints without backend assistance.
+*  **Dynamic Vector Render Grids:** Re-evaluates array matrices on the fly per render pass, structuralizing row data keys dynamically across conditional HTML view layouts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Running Instructions
+1. Setup package configurations: `npm install`
+2. Launch dev data workbench: `npm run dev`
